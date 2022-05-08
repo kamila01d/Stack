@@ -1,3 +1,0 @@
-/home/kamila/cpp/algosy7/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/kamila/cpp/algosy7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/kamila/cpp/algosy7/cmake-build-debug/CMakeFiles/algosy7.dir
