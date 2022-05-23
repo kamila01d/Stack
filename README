@@ -1,4 +1,7 @@
-Aby uruchomić program należy wpisać w terminalu polecenie:
+To run this program:
                 make run
-Aby wyczyścić katalog z plików wyknowyalnych nalezy wpisać:
+To clean folder from executables:
                 make clean
+
+This program is implementation of ADT stack. It uses template, so the things in stack can be anything you want. The stack is using an array. 
+It also has basic methods such as push, pop, size, clear, full, empty. 
